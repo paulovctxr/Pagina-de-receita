@@ -40,15 +40,8 @@ Praticar estruturação de conteúdo com HTML e estilização com CSS em uma lan
 
 ## 🌐 Deploy
 
-URL do projeto: **(adicionar quando publicar no GitHub Pages)**
-
-### Como publicar no GitHub Pages
-
-1. Suba o projeto para um repositório no GitHub.
-2. Vá em **Settings > Pages**.
-3. Em **Source**, selecione a branch principal e a pasta **/(root)**.
-4. Salve e aguarde a geração do link.
+URL do projeto: **[(https://paulovctxr.github.io/Pagina-de-receita/)]**
 
 ## 👤 Autor
 
-Seu nome aqui
+Paulo Victor Soares
