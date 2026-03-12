@@ -38,10 +38,6 @@ Esta página apresenta:
 
 Praticar estruturação de conteúdo com HTML e estilização com CSS em uma landing page simples de receita.
 
-## 🌐 Deploy
-
-URL do projeto: **[(https://paulovctxr.github.io/Pagina-de-receita/)]**
-
 ## 👤 Autor
 
 Paulo Victor Soares
